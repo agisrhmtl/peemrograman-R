@@ -1,7 +1,7 @@
 # Pemrograman-R
 This program is used to determine the factors that influence economic growth in East Java Province, Indonesia by using the Geographically Weighted Regression (GWR) and Mixed Geographichally Weighted Regression (MGWR) methods
 ## Data Attributes
-Kabupaten_Kota : names of regencies and cities in East Java Province
+Kabupaten_Kota : names of regencies and cities in East Java Province.
 PE : Economic Growth Data for 2023 by districts and cities in East Java Province (in percent)
 TPAK : Data on Labor Force Participation Rate in 2023 by district and city in East Java Province (in percent)
 PDRB : Data on GRDP per capita at current prices in 2023 by district and city in East Java Province (in thousand rupiah)
