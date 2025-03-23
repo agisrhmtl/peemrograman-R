@@ -1,4 +1,4 @@
-# Pemrograman-R
+# R Programming
 This program is used to determine the factors that influence economic growth in East Java Province, Indonesia by using the Geographically Weighted Regression (GWR) and Mixed Geographichally Weighted Regression (MGWR) methods
 ## Data Attributes
 Kabupaten_Kota : names of regencies and cities in East Java Province
